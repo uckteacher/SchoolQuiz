@@ -136,6 +136,20 @@ input[type="submit"] {
 	transition: all 0.5s ease 0s; 
 }
 
+.button, 
+button 
+input[type="button"] {
+    min-height: 38px;
+    letter-spacing: 0.1em;
+    padding: 0 30px;
+}
+
+button, 
+.button {
+    margin-bottom: 1em;
+}
+
+
 button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
