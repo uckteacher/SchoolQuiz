@@ -114,7 +114,8 @@ td:last-child {
 /*--------------------------------------------------------------
 Forms
 --------------------------------------------------------------*/
-button,
+.button, 
+button, 
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {  
