@@ -140,9 +140,8 @@ input[type="submit"] {
 .button, 
 button 
 input[type="button"] {
-    min-height: 38px;
-    letter-spacing: 0.1em;
-    padding: 0 30px;
+    letter-spacing: 0;
+    padding: .5em 1em;
 }
 
 button, 
