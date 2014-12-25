@@ -138,7 +138,7 @@ input[type="submit"] {
 }
 
 .button, 
-button 
+button,
 input[type="button"] {
     letter-spacing: 0;
     padding: .5em 1em;
